@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Seb::VERSION
   spec.authors       = ['Yu Wang']
   spec.email         = ['wangyuhere@gmail.com']
-  spec.summary       = %q{Extract data from SEB xls file and generate report}
-  spec.description   = %q{It extracts data from exported xls file of SEB bank statments and generates a financial report.}
+  spec.summary       = %q{Extract data from SEB .xlsx file and generate financial report}
+  spec.description   = %q{It extracts data from exported .xlsx file of SEB bank statements and generates a financial report.}
   spec.homepage      = ''
   spec.license       = 'MIT'
 

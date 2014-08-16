@@ -1,24 +1,14 @@
 # Seb
 
-TODO: Write a gem description
+It extracts data from exported xlsx file of SEB bank statments and generates a financial report.
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'seb'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install seb
 
 ## Usage
 
-TODO: Write usage instructions here
+
 
 ## Contributing
 
