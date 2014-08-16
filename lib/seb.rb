@@ -1,5 +1,5 @@
 require 'seb/version'
+require 'seb/document'
 
 module Seb
-  # Your code goes here...
 end
