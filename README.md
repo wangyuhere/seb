@@ -16,7 +16,6 @@ Click "Exportera till kalkylblad (xls)" to export:
 Then run:
 
     $ seb report Export.xlsx
-    
     +---------+-------------------------+
     |              Summary              |
     +---------+-------------------------+

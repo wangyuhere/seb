@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['wangyuhere@gmail.com']
   spec.summary       = %q{Extract data from SEB .xlsx file and generate financial report}
   spec.description   = %q{It extracts data from exported .xlsx file of SEB bank statements and generates a financial report.}
-  spec.homepage      = ''
+  spec.homepage      = 'https://github.com/wangyuhere/seb'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split("\n")
