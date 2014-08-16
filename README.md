@@ -38,6 +38,15 @@ Then run:
     | 2014-04 | 0.0     | 100.0  | 100.0   |
     +---------+---------+--------+---------+
 
+For help:
+
+    $ seb help
+    Commands:
+      seb help [COMMAND]  # Describe available commands or one specific command
+      seb report FILE     # Show the report of the xlsx file
+      seb summary FILE    # Show the summary of the xlsx file
+      seb version         # Show version
+
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/seb/fork )
