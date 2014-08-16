@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'seb'
+require 'seb/cli'
+
+Seb::Cli::App.start ARGV
